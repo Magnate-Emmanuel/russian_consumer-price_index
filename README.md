@@ -1,5 +1,5 @@
 # russian_consumer-price_index
-Our application collects data on consumer price indices for various products and services from 2010 to 2021.
+The application collects data on consumer price indices for various products and services from 2010 to 2021.
 To use our application, you will need Python3, SQLite installed, as well as the BeautifulSoup package. 
 Unpack the python_project archive with all its contents into a separate folder. 
 Run the python code raspars.py from the created folder. 
